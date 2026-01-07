@@ -35,7 +35,7 @@ pip install ultralytics opencv-python matplotlib scikit-learn pyyaml
 
 After downloading and extracting the dataset, the folder structure must be:
 
-
+```text
 The Welding Defect Dataset/
 │
 ├── train/
@@ -113,14 +113,14 @@ This notebook performs:
 - Compares YOLOv8s with YOLOv8n  
 
 **Outputs generated**
-
+```text
 runs/detect/val*/
 pred_samples/yolov8s_test_preds/
 
 ## Video Inference
 
 Open and run:
-
+```text
 notebooks/video_inference.ipynb
 
 This notebook performs:
