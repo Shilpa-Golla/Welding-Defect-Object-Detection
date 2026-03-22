@@ -55,9 +55,7 @@ The Welding Defect Dataset/
 
 
 ```text
-Project1_Shilpa/
-│
-├── notebooks/
+├── Notebooks/
 │   ├── train.ipynb
 │   ├── evaluate.ipynb
 │   └── video_inference.ipynb
